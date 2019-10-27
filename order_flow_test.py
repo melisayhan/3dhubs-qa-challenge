@@ -7,8 +7,8 @@ from selenium.webdriver.common.by import By
 
 login_url = "https://www.3dhubs.com/manufacture/login"
 # Please update email and password
-email = "n.meliscelik@hotmail.com"
-password = "Qwer1234."
+email = ""
+password = ""
 
 submit_button_selector = "button[type='submit']"
 
